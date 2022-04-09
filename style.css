@@ -8,8 +8,7 @@
 
 body{
   height: 100vh;
-  background: url("https://img2.thuthuatphanmem.vn/uploads/2018/11/17/anh-anime-phong-canh-dep_112649255.jpg") no-repeat center;
-  background-size: cover;
+  background-image: linear-gradient(to right, powderblue, pink);
   display: flex;
   align-items: center;
   justify-content: center;
