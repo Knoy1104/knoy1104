@@ -8,13 +8,15 @@
 
 body{
   height: 100vh;
-  background-image: linear-gradient(to right, powderblue, pink);
   display: flex;
   align-items: center;
   justify-content: center;
 }
 
 .profile-card{
+  background-color: rgba(232, 232, 232, 0.2);
+  color: white;
+  border: 1px solid rgba(232, 232, 232, 0.3);
   width: 400px;
   text-align: center;
   border-radius: 8px;
